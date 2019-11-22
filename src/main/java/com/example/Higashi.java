@@ -1,15 +1,15 @@
 package com.example;
 
 public class Higashi {
-	private String name;
+	private String name2;
 	private Integer age;
 	private String hobby;
 	
 	public String getName() {
-		return name;
+		return name2;
 	}
-	public void setName(String name) {
-		this.name = name;
+	public void setName(String name2) {
+		this.name2 = name2;
 	}
 	public Integer getAge() {
 		return age;
